@@ -1,0 +1,203 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="#item_1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the 47th Hawaii International Conference on System Sciences</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hamari</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koivisto</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sarsa</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Gamification</dc:subject>
+        <dc:title>Does gamification work</dc:title>
+        <dc:date>2014</dc:date>
+        <bib:pages>3025–3034</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>105</prism:volume>
+                <dc:title>Journal of Educational Psychology</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wouters</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Nimwegen</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Oostendorp</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van der Spek</foaf:surname>
+                        <foaf:givenName>E. D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>motivation</dc:subject>
+        <dc:subject>Cognitive</dc:subject>
+        <dc:title>A meta-analysis of the cognitive and motivational effects of serious games</dc:title>
+        <dc:date>2013</dc:date>
+        <bib:pages>249–265</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <dc:title>Journal of Computer Assisted Learning</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bressler</foaf:surname>
+                        <foaf:givenName>D.M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodzin</foaf:surname>
+                        <foaf:givenName>A.M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>AR</dc:subject>
+        <dc:title>A mixed methods assessment of students’ flow experiences during a mobile augmented reality science game</dc:title>
+        <dc:date>2013</dc:date>
+        <bib:pages>505–517</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>71</prism:volume>
+                <dc:title>Computers &amp; Education</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibáñez</foaf:surname>
+                        <foaf:givenName>M. B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Di Serio</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villarán</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Experimenting with electromagnetism using augmented reality: Impact on flow student experience and educational effectiveness</dc:title>
+        <dc:date>2014</dc:date>
+        <bib:pages>1-13</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="https://aisel.aisnet.org/pacis2013/206/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the Pacific Asia Conference on Information Systems (PACIS)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheong</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheong</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Filippou</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Gamification</dc:subject>
+        <dc:title>Quick quiz: A gamified approach for enhancing learning</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aisel.aisnet.org/pacis2013/206/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–12</bib:pages>
+    </rdf:Description>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>AR and Games</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+        <dcterms:hasPart rdf:resource="#item_3"/>
+        <dcterms:hasPart rdf:resource="#item_4"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Gamification in Education</dc:title>
+        <dcterms:hasPart rdf:resource="#item_1"/>
+        <dcterms:hasPart rdf:resource="https://aisel.aisnet.org/pacis2013/206/"/>
+    </z:Collection>
+</rdf:RDF>
